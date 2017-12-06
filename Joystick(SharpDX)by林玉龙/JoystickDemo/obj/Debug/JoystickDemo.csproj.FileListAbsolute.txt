@@ -11,3 +11,14 @@ G:\mission\CSharpLearning\手柄\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\D
 G:\mission\CSharpLearning\手柄\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.csproj.GenerateResource.Cache
 G:\mission\CSharpLearning\手柄\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.exe
 G:\mission\CSharpLearning\手柄\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.pdb
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\bin\Debug\JoystickDemo.exe.config
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.exe
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.pdb
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\bin\Debug\JoystickDemo.exe
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\bin\Debug\JoystickDemo.pdb
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\bin\Debug\SharpDX.xml
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\bin\Debug\SharpDX.DirectInput.xml
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.csprojResolveAssemblyReference.cache
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.Form1.resources
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.Properties.Resources.resources
+G:\mission\CSharpLearning\手柄\JoystickLearning\Joystick(SharpDX)by林玉龙\JoystickDemo\obj\Debug\JoystickDemo.csproj.GenerateResource.Cache
